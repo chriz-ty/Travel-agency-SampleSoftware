@@ -1,5 +1,5 @@
 import mysql.connector as dbm
-conn=dbm.connect(host="localhost",user="root",passwd="christy",database="software")
+conn=dbm.connect(host="localhost",user="root",passwd=" ",database="software")
 cur=conn.cursor()
 
 
